@@ -1,1 +1,14 @@
-/*  your css code here. If applicable */
+#container{
+	
+	width:1100px;
+}
+#col1{
+	widht:200px;
+}
+#col2{
+	width:600px;
+}
+#col3{
+	width:200px;
+}
+	
